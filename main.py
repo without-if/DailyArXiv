@@ -22,7 +22,35 @@ with open("README.md", "r") as f:
     # if last_update_date == current_date:
         # sys.exit("Already updated today!")
 
-keywords = ["Time Series", "Trajectory", "Graph Neural Networks"] # TODO add more keywords
+
+# Millimeter-Wave and Wireless Sensing Papers
+
+keywords = [
+    # 毫米波基础感知
+    "mmWave radar",
+    "millimeter wave radar",
+    "FMCW radar",
+    "radar sensing",
+
+    # 无线感知与泛化研究
+    "wireless sensing",
+    "RF sensing",
+
+    # 人机交互与行为识别
+    "radar gesture",
+    "in-air writing",
+    "radar point cloud",
+
+    # 非接触生理监测
+    "radar vital signs",
+]
+
+# 每个关键词最多获取30篇
+max_result = 30
+
+# 每个关键词在Issue日报中最多展示5篇
+issues_result = 5
+
 
 max_result = 100 # maximum query results from arXiv API for each keyword
 issues_result = 15 # maximum papers to be included in the issue
