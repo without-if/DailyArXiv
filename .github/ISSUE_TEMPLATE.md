@@ -7,6 +7,10 @@ labels: documentation
 ## mmWave radar
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[4D Point Splatting for mmWave Radar Micro-Doppler Differentiable Rendering](https://arxiv.org/abs/2611.08342v1)** | 2026-11-05 | Under Review |
+| **[Beyond Gait: Person Identification from Millimeter-Wave Point Clouds Across Activities of Daily Living](https://arxiv.org/abs/2609.08818v2)** | 2026-11-05 | <details><summary>v2: R...</summary><p>v2: Revised the activity-identity learning framework, updated experimental comparisons, and improved manuscript presentation</p></details> |
+| **[A Synchronized Tri-Modality Wireless System for Multi-Point Non-Contact Cardiac Monitoring](https://arxiv.org/abs/2611.07358v1)** | 2026-11-05 | 11 pages, 9 figures |
+| **[MITO: A Millimeter-Wave Dataset and Simulator for Non-Line-of-Sight Perception](https://arxiv.org/abs/2502.10259v4)** | 2026-11-05 |  |
 | **[Untangling Dense Crowds with mmWave Radar: From Crowd Semantics to Individual Spatial Behaviors](https://arxiv.org/abs/2608.19357v2)** | 2026-11-03 |  |
 | **[RadPose: ISAC-based RF 3D Human Pose Estimation](https://arxiv.org/abs/2611.01400v1)** | 2026-11-01 | <details><summary>Accep...</summary><p>Accepted to WACV 2027</p></details> |
 | **[A Two-Stage Shape- and Motion-Aware Framework for mmWave-based Human Mesh Recovery](https://arxiv.org/abs/2605.08530v2)** | 2026-10-27 | accepted by WACV'27 |
@@ -18,14 +22,11 @@ labels: documentation
 | **[ICASSP 2026 Radar Acoustic Speech Enhancement (RASE) Challenge](https://arxiv.org/abs/2610.32202v1)** | 2026-10-23 | <details><summary>Publi...</summary><p>Published in IEEE ICASSP 2026. Author-accepted manuscript. Challenge resources and code available via the official project website</p></details> |
 | **[Radar-Based 3D Human Pose Estimation via Motion-Aware Pose Initialization and Observation-Guided Refinement](https://arxiv.org/abs/2610.27774v1)** | 2026-10-20 | <details><summary>15 pa...</summary><p>15 pages, 5 figures, 8 tables</p></details> |
 | **[mmHand: Toward Pixel-Level-Accuracy Hand Localization Using a Single Commodity mmWave Device](https://arxiv.org/abs/2611.05404v1)** | 2026-10-20 |  |
-| **[mmPencil: Toward Writing-Style-Independent In-Air Handwriting Recognition via mmWave Radar and Large Vision-Language Model](https://arxiv.org/abs/2610.23419v1)** | 2026-10-16 | <details><summary>Publi...</summary><p>Published in ACM IMWUT, Vol. 9, No. 3, Article 81, 2025; presented at ACM UbiComp 2025. 30 pages</p></details> |
-| **[FedHUG: Federated Heterogeneous Unsupervised Generalization for Remote Physiological Measurements](https://arxiv.org/abs/2510.12132v3)** | 2026-10-09 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
-| **[Kapture: Capturing Cardiac Dynamics with Koopman-Governed Learning for Efficient Radar-Based Electrocardiogram Recovery](https://arxiv.org/abs/2610.04955v1)** | 2026-10-04 | <details><summary>5 pag...</summary><p>5 pages, 3 figures, 2 tables</p></details> |
-| **[Learning to Assess Heartbeat Observability for mmWave Heart-Rate Sensing](https://arxiv.org/abs/2610.03570v1)** | 2026-10-02 | <details><summary>19 pa...</summary><p>19 pages, 11 figures. Project page: https://yuxuanhu9.github.io/HEAR/</p></details> |
 
 ## millimeter wave radar
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[4D Point Splatting for mmWave Radar Micro-Doppler Differentiable Rendering](https://arxiv.org/abs/2611.08342v1)** | 2026-11-05 | Under Review |
 | **[You Only Flow Once: Calibrated and Real-Time Radar Pose Estimation with Multi-Hypothesis Normalizing Flows](https://arxiv.org/abs/2608.09579v2)** | 2026-11-03 | <details><summary>Accep...</summary><p>Accepted at the Winter Conference on Applications of Computer Vision (WACV) 2027</p></details> |
 | **[RadarCom: Unlocking Simultaneous Communication and Sensing on Commodity Automotive mmWave Radars](https://arxiv.org/abs/2610.36622v1)** | 2026-10-27 | <details><summary>Accep...</summary><p>Accepted to ACM SenSys 2027. 14 pages</p></details> |
 | **[Dirichlet Splatting: Differentiable Rendering for Wave-Based Inverse Problems](https://arxiv.org/abs/2610.00618v1)** | 2026-09-30 | <details><summary>19 pa...</summary><p>19 pages, 13 figures, including appendices. Accepted for publication in ACM Transactions on Graphics</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[P2MFDS: A Privacy-Preserving Multimodal Fall Detection System for Elderly People in Bathroom Environments](https://arxiv.org/abs/2506.17332v2)** | 2026-08-12 | <details><summary>Accep...</summary><p>Accepted to appear in the 2025 IEEE International Workshop on AIoT and Smart Systems (AIoTSys'25)</p></details> |
 | **[RFCheck: Synthetic RF Sensing Data Can Fail Measurement Consistency](https://arxiv.org/abs/2608.09676v1)** | 2026-08-10 |  |
 | **[FSTC-Encoder: Feature--Spatial--Temporal Correlation Learning for Generalizable RF Sensing](https://arxiv.org/abs/2608.08439v1)** | 2026-08-09 | <details><summary>9 pag...</summary><p>9 pages, 2 figures, and 6 tables. Submitted to the 41st AAAI Conference on Artificial Intelligence (AAAI 2027)</p></details> |
-| **[Physiology-Informed Multivariate Variational Mode Decomposition for Orientation-Robust Sensing Using Distributed Millimeter-Wave Radar Systems](https://arxiv.org/abs/2510.10542v2)** | 2026-08-03 | <details><summary>14 pa...</summary><p>14 pages, 9 figures, 4 tables. This work is going to be submitted to the IEEE for possible publication</p></details> |
 
 ## FMCW radar
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,7 @@ labels: documentation
 ## radar sensing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Synchronized Tri-Modality Wireless System for Multi-Point Non-Contact Cardiac Monitoring](https://arxiv.org/abs/2611.07358v1)** | 2026-11-05 | 11 pages, 9 figures |
 | **[Robust Beamforming Design for Integrated Sensing and Communications with Mutual Coupling Effect](https://arxiv.org/abs/2608.15556v2)** | 2026-11-04 | <details><summary>5 pag...</summary><p>5 pages, 5 figures, submitted to IEEE Wireless Communication Letters, 2026</p></details> |
 | **[Physics-Based Plausibility Assessment of AI-Predicted Vehicle Parameters for Automotive Radar in Pre-Crash Scenarios](https://arxiv.org/abs/2611.04871v1)** | 2026-11-03 |  |
 | **[Sensing Fast and Distant Targets in Fractional Overspread Channels with Zak-OTFS and Modular Arithmetic](https://arxiv.org/abs/2610.39110v2)** | 2026-10-31 | <details><summary>14 pa...</summary><p>14 pages, 8 figures, 4 tables</p></details> |
@@ -78,7 +79,6 @@ labels: documentation
 | **[Communication and Sensing Coverage of UAV Corridor under Beam Misalignment Error](https://arxiv.org/abs/2610.01368v1)** | 2026-10-01 | <details><summary>Accep...</summary><p>Accepted for presentation in IEEE ISAC 2026</p></details> |
 | **[Joint Communication and Sensing in Aerial Corridors: A Novel Stochastic Geometry Framework](https://arxiv.org/abs/2610.01359v1)** | 2026-10-01 | <details><summary>accep...</summary><p>accepted for presentation in 2026 IEEE GLOBECOM</p></details> |
 | **[Radar Sensing Based on 1-Bit Quantized Reconfigurable Intelligent Surfaces](https://arxiv.org/abs/2603.27961v2)** | 2026-09-28 |  |
-| **[StarBOA: Real-Time Mamba State-Space Unrolling for Sparse Radar Micro-Doppler in ISAC Networks](https://arxiv.org/abs/2609.33408v1)** | 2026-09-27 | 5 pages, 2 figures |
 
 ## wireless sensing
 | **Title** | **Date** | **Comment** |
@@ -149,6 +149,7 @@ labels: documentation
 ## radar point cloud
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond Gait: Person Identification from Millimeter-Wave Point Clouds Across Activities of Daily Living](https://arxiv.org/abs/2609.08818v2)** | 2026-11-05 | <details><summary>v2: R...</summary><p>v2: Revised the activity-identity learning framework, updated experimental comparisons, and improved manuscript presentation</p></details> |
 | **[Untangling Dense Crowds with mmWave Radar: From Crowd Semantics to Individual Spatial Behaviors](https://arxiv.org/abs/2608.19357v2)** | 2026-11-03 |  |
 | **[Physics-Based Plausibility Assessment of AI-Predicted Vehicle Parameters for Automotive Radar in Pre-Crash Scenarios](https://arxiv.org/abs/2611.04871v1)** | 2026-11-03 |  |
 | **[You Only Flow Once: Calibrated and Real-Time Radar Pose Estimation with Multi-Hypothesis Normalizing Flows](https://arxiv.org/abs/2608.09579v2)** | 2026-11-03 | <details><summary>Accep...</summary><p>Accepted at the Winter Conference on Applications of Computer Vision (WACV) 2027</p></details> |
@@ -163,7 +164,6 @@ labels: documentation
 | **[4D-RaDiff: Latent Point Diffusion for 4D Radar Point Cloud Generation](https://arxiv.org/abs/2512.14235v2)** | 2026-09-11 | ECCV 2026 DriveX |
 | **[UNRIO: Uncertainty-Aware Velocity Learning for Radar-Inertial Odometry](https://arxiv.org/abs/2604.13584v2)** | 2026-08-25 |  |
 | **[IRGNN: Efficient Invariant Radar Graph Neural Network for Radar Point Cloud Object Detection](https://arxiv.org/abs/2608.14394v1)** | 2026-08-14 | <details><summary>Accep...</summary><p>Accepted at ICONIP 2026</p></details> |
-| **[RadarGen: Automotive Radar Point Cloud Generation from Cameras](https://arxiv.org/abs/2512.17897v2)** | 2026-08-13 | <details><summary>ECCV ...</summary><p>ECCV 2026. Project page: https://radargen.github.io/</p></details> |
 
 ## radar vital signs
 | **Title** | **Date** | **Comment** |
