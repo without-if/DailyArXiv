@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 08, 2026
+title: Latest 15 Papers - November 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## mmWave radar
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RadarDINO: Distilling a Visual Foundation Model into mmWave Radar for Human Mesh Reconstruction](https://arxiv.org/abs/2611.09524v1)** | 2026-11-06 |  |
+| **[RADAR Perception for Dynamic Obstacle Avoidance onboard small-scale Quadrotor UAVs](https://arxiv.org/abs/2608.01855v2)** | 2026-11-06 | <details><summary>Prepr...</summary><p>Preprint. This work has been submitted for possible publication and is currently under review</p></details> |
 | **[4D Point Splatting for mmWave Radar Micro-Doppler Differentiable Rendering](https://arxiv.org/abs/2611.08342v1)** | 2026-11-05 | Under Review |
 | **[Beyond Gait: Person Identification from Millimeter-Wave Point Clouds Across Activities of Daily Living](https://arxiv.org/abs/2609.08818v2)** | 2026-11-05 | <details><summary>v2: R...</summary><p>v2: Revised the activity-identity learning framework, updated experimental comparisons, and improved manuscript presentation</p></details> |
 | **[A Synchronized Tri-Modality Wireless System for Multi-Point Non-Contact Cardiac Monitoring](https://arxiv.org/abs/2611.07358v1)** | 2026-11-05 | 11 pages, 9 figures |
@@ -20,12 +22,11 @@ labels: documentation
 | **[Doppler-aided Position-Velocity Tracking of Hidden Objects using mmWave Radar](https://arxiv.org/abs/2610.34085v1)** | 2026-10-25 | 8 pages, 8 figures |
 | **[FreqPKC: Frequency-Aware PeakConv for Radar Semantic Segmentation](https://arxiv.org/abs/2610.33504v1)** | 2026-10-24 |  |
 | **[ICASSP 2026 Radar Acoustic Speech Enhancement (RASE) Challenge](https://arxiv.org/abs/2610.32202v1)** | 2026-10-23 | <details><summary>Publi...</summary><p>Published in IEEE ICASSP 2026. Author-accepted manuscript. Challenge resources and code available via the official project website</p></details> |
-| **[Radar-Based 3D Human Pose Estimation via Motion-Aware Pose Initialization and Observation-Guided Refinement](https://arxiv.org/abs/2610.27774v1)** | 2026-10-20 | <details><summary>15 pa...</summary><p>15 pages, 5 figures, 8 tables</p></details> |
-| **[mmHand: Toward Pixel-Level-Accuracy Hand Localization Using a Single Commodity mmWave Device](https://arxiv.org/abs/2611.05404v1)** | 2026-10-20 |  |
 
 ## millimeter wave radar
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[What Limits mmWave Human-State Sensing for Robot Perception?](https://arxiv.org/abs/2611.08863v1)** | 2026-11-06 |  |
 | **[4D Point Splatting for mmWave Radar Micro-Doppler Differentiable Rendering](https://arxiv.org/abs/2611.08342v1)** | 2026-11-05 | Under Review |
 | **[You Only Flow Once: Calibrated and Real-Time Radar Pose Estimation with Multi-Hypothesis Normalizing Flows](https://arxiv.org/abs/2608.09579v2)** | 2026-11-03 | <details><summary>Accep...</summary><p>Accepted at the Winter Conference on Applications of Computer Vision (WACV) 2027</p></details> |
 | **[RadarCom: Unlocking Simultaneous Communication and Sensing on Commodity Automotive mmWave Radars](https://arxiv.org/abs/2610.36622v1)** | 2026-10-27 | <details><summary>Accep...</summary><p>Accepted to ACM SenSys 2027. 14 pages</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[RbFT-Net: Rectify-Before-Fuse Temporal Radar Anchors for 4D Radar-Camera Depth Completion](https://arxiv.org/abs/2608.13102v1)** | 2026-08-13 |  |
 | **[P2MFDS: A Privacy-Preserving Multimodal Fall Detection System for Elderly People in Bathroom Environments](https://arxiv.org/abs/2506.17332v2)** | 2026-08-12 | <details><summary>Accep...</summary><p>Accepted to appear in the 2025 IEEE International Workshop on AIoT and Smart Systems (AIoTSys'25)</p></details> |
 | **[RFCheck: Synthetic RF Sensing Data Can Fail Measurement Consistency](https://arxiv.org/abs/2608.09676v1)** | 2026-08-10 |  |
-| **[FSTC-Encoder: Feature--Spatial--Temporal Correlation Learning for Generalizable RF Sensing](https://arxiv.org/abs/2608.08439v1)** | 2026-08-09 | <details><summary>9 pag...</summary><p>9 pages, 2 figures, and 6 tables. Submitted to the 41st AAAI Conference on Artificial Intelligence (AAAI 2027)</p></details> |
 
 ## FMCW radar
 | **Title** | **Date** | **Comment** |
