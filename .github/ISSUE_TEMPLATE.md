@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 09, 2026
+title: Latest 15 Papers - November 10, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## mmWave radar
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[3D Point Splatting for mmWave Radar Novel View Synthesis](https://arxiv.org/abs/2609.11894v2)** | 2026-11-07 | <details><summary>Accep...</summary><p>Accepted to the Conference on Neural Information Processing Systems (NeurIPS) 2026. Project page: https://3d-point-splatting.github.io/</p></details> |
 | **[RadarDINO: Distilling a Visual Foundation Model into mmWave Radar for Human Mesh Reconstruction](https://arxiv.org/abs/2611.09524v1)** | 2026-11-06 |  |
 | **[RADAR Perception for Dynamic Obstacle Avoidance onboard small-scale Quadrotor UAVs](https://arxiv.org/abs/2608.01855v2)** | 2026-11-06 | <details><summary>Prepr...</summary><p>Preprint. This work has been submitted for possible publication and is currently under review</p></details> |
 | **[4D Point Splatting for mmWave Radar Micro-Doppler Differentiable Rendering](https://arxiv.org/abs/2611.08342v1)** | 2026-11-05 | Under Review |
@@ -21,11 +22,11 @@ labels: documentation
 | **[RadarCom: Unlocking Simultaneous Communication and Sensing on Commodity Automotive mmWave Radars](https://arxiv.org/abs/2610.36622v1)** | 2026-10-27 | <details><summary>Accep...</summary><p>Accepted to ACM SenSys 2027. 14 pages</p></details> |
 | **[Doppler-aided Position-Velocity Tracking of Hidden Objects using mmWave Radar](https://arxiv.org/abs/2610.34085v1)** | 2026-10-25 | 8 pages, 8 figures |
 | **[FreqPKC: Frequency-Aware PeakConv for Radar Semantic Segmentation](https://arxiv.org/abs/2610.33504v1)** | 2026-10-24 |  |
-| **[ICASSP 2026 Radar Acoustic Speech Enhancement (RASE) Challenge](https://arxiv.org/abs/2610.32202v1)** | 2026-10-23 | <details><summary>Publi...</summary><p>Published in IEEE ICASSP 2026. Author-accepted manuscript. Challenge resources and code available via the official project website</p></details> |
 
 ## millimeter wave radar
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Single-Radar Bilateral 3D Near-Field Imaging for Mobile Robots](https://arxiv.org/abs/2611.11296v1)** | 2026-11-08 |  |
 | **[What Limits mmWave Human-State Sensing for Robot Perception?](https://arxiv.org/abs/2611.08863v1)** | 2026-11-06 |  |
 | **[4D Point Splatting for mmWave Radar Micro-Doppler Differentiable Rendering](https://arxiv.org/abs/2611.08342v1)** | 2026-11-05 | Under Review |
 | **[You Only Flow Once: Calibrated and Real-Time Radar Pose Estimation with Multi-Hypothesis Normalizing Flows](https://arxiv.org/abs/2608.09579v2)** | 2026-11-03 | <details><summary>Accep...</summary><p>Accepted at the Winter Conference on Applications of Computer Vision (WACV) 2027</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[WiWorld-RealData: A Real-World Multi-Modal Dataset for 6G Wireless World Models](https://arxiv.org/abs/2606.24476v3)** | 2026-08-16 | <details><summary>6 pag...</summary><p>6 pages, 6 figures, 3 tables</p></details> |
 | **[RbFT-Net: Rectify-Before-Fuse Temporal Radar Anchors for 4D Radar-Camera Depth Completion](https://arxiv.org/abs/2608.13102v1)** | 2026-08-13 |  |
 | **[P2MFDS: A Privacy-Preserving Multimodal Fall Detection System for Elderly People in Bathroom Environments](https://arxiv.org/abs/2506.17332v2)** | 2026-08-12 | <details><summary>Accep...</summary><p>Accepted to appear in the 2025 IEEE International Workshop on AIoT and Smart Systems (AIoTSys'25)</p></details> |
-| **[RFCheck: Synthetic RF Sensing Data Can Fail Measurement Consistency](https://arxiv.org/abs/2608.09676v1)** | 2026-08-10 |  |
 
 ## FMCW radar
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,7 @@ labels: documentation
 ## radar sensing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Bistatic UAV-Based 3D SAR Imaging Using Integrated Sensing and Communications Transceivers](https://arxiv.org/abs/2611.11956v1)** | 2026-11-09 |  |
 | **[A Synchronized Tri-Modality Wireless System for Multi-Point Non-Contact Cardiac Monitoring](https://arxiv.org/abs/2611.07358v1)** | 2026-11-05 | 11 pages, 9 figures |
 | **[Robust Beamforming Design for Integrated Sensing and Communications with Mutual Coupling Effect](https://arxiv.org/abs/2608.15556v2)** | 2026-11-04 | <details><summary>5 pag...</summary><p>5 pages, 5 figures, submitted to IEEE Wireless Communication Letters, 2026</p></details> |
 | **[Physics-Based Plausibility Assessment of AI-Predicted Vehicle Parameters for Automotive Radar in Pre-Crash Scenarios](https://arxiv.org/abs/2611.04871v1)** | 2026-11-03 |  |
@@ -78,11 +79,11 @@ labels: documentation
 | **[SAC-Controlled RIS-Assisted Monopulse Radar for Multipath-Robust Vital-Sign Localization](https://arxiv.org/abs/2610.03643v1)** | 2026-10-02 | <details><summary>To ap...</summary><p>To appear in IEEE CCNC 2027</p></details> |
 | **[Communication and Sensing Coverage of UAV Corridor under Beam Misalignment Error](https://arxiv.org/abs/2610.01368v1)** | 2026-10-01 | <details><summary>Accep...</summary><p>Accepted for presentation in IEEE ISAC 2026</p></details> |
 | **[Joint Communication and Sensing in Aerial Corridors: A Novel Stochastic Geometry Framework](https://arxiv.org/abs/2610.01359v1)** | 2026-10-01 | <details><summary>accep...</summary><p>accepted for presentation in 2026 IEEE GLOBECOM</p></details> |
-| **[Radar Sensing Based on 1-Bit Quantized Reconfigurable Intelligent Surfaces](https://arxiv.org/abs/2603.27961v2)** | 2026-09-28 |  |
 
 ## wireless sensing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[An Overview on Multimodal Wireless and Visual Sensing for Environment Reconstruction: Opportunities and Challenges](https://arxiv.org/abs/2611.10516v1)** | 2026-11-07 |  |
 | **[Multistatic ISAC with Deep Learning-Based Clutter Suppression for 5G and Beyond](https://arxiv.org/abs/2610.40586v1)** | 2026-10-29 |  |
 | **[Revolutionizing 6G Wireless Networks with RISs: Enhancements in Sensing and Communications](https://arxiv.org/abs/2610.27695v2)** | 2026-10-29 | <details><summary>7 pag...</summary><p>7 pages, 6 figures, accepted by IEEE Communications Magazine</p></details> |
 | **[Movable Antenna-Enabled Near-Field Localization: A Moment-Based Approach](https://arxiv.org/abs/2610.21191v2)** | 2026-10-16 | 6 pages, 4 figures |
@@ -97,7 +98,6 @@ labels: documentation
 | **[A New Backscattering Dual-Polarized Rectenna for Wireless Power Transfer and IoT Applications](https://arxiv.org/abs/2609.08833v1)** | 2026-09-08 |  |
 | **[IIns-VAE+: A Robust Transfer Learning Framework for Environmental Identification in Wireless Sensing](https://arxiv.org/abs/2609.06131v1)** | 2026-09-05 | 17 pages |
 | **[A Deep Generative Model for Synthesizing Labeled Wireless Signals](https://arxiv.org/abs/2609.05396v1)** | 2026-09-04 | 12 pages |
-| **[ARFT: A Synchronized Multimodal RF-Acoustic Dataset for Positioning in Distributed Environments](https://arxiv.org/abs/2609.02657v1)** | 2026-09-02 |  |
 
 ## RF sensing
 | **Title** | **Date** | **Comment** |
