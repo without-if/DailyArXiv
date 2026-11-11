@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 10, 2026
+title: Latest 15 Papers - November 11, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## mmWave radar
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Terrain Perception for Agricultural UAVs in Complex Farmland via Rotating mmWave Radar](https://arxiv.org/abs/2605.01340v2)** | 2026-11-10 |  |
+| **[RaMOD: Moving-Object Detection from Raw mmWave Radar Cubes under Ego Motion](https://arxiv.org/abs/2611.13271v1)** | 2026-11-09 |  |
 | **[3D Point Splatting for mmWave Radar Novel View Synthesis](https://arxiv.org/abs/2609.11894v2)** | 2026-11-07 | <details><summary>Accep...</summary><p>Accepted to the Conference on Neural Information Processing Systems (NeurIPS) 2026. Project page: https://3d-point-splatting.github.io/</p></details> |
 | **[RadarDINO: Distilling a Visual Foundation Model into mmWave Radar for Human Mesh Reconstruction](https://arxiv.org/abs/2611.09524v1)** | 2026-11-06 |  |
 | **[RADAR Perception for Dynamic Obstacle Avoidance onboard small-scale Quadrotor UAVs](https://arxiv.org/abs/2608.01855v2)** | 2026-11-06 | <details><summary>Prepr...</summary><p>Preprint. This work has been submitted for possible publication and is currently under review</p></details> |
@@ -20,8 +22,6 @@ labels: documentation
 | **[3D Occupancy-Language Fields from mmWave Radar](https://arxiv.org/abs/2610.37929v1)** | 2026-10-27 |  |
 | **[Soft Temporal Alignment Distillation for Camera-to-mmWave Radar Human Activity Recognition](https://arxiv.org/abs/2610.36637v1)** | 2026-10-27 | 13 pages, 7 figures |
 | **[RadarCom: Unlocking Simultaneous Communication and Sensing on Commodity Automotive mmWave Radars](https://arxiv.org/abs/2610.36622v1)** | 2026-10-27 | <details><summary>Accep...</summary><p>Accepted to ACM SenSys 2027. 14 pages</p></details> |
-| **[Doppler-aided Position-Velocity Tracking of Hidden Objects using mmWave Radar](https://arxiv.org/abs/2610.34085v1)** | 2026-10-25 | 8 pages, 8 figures |
-| **[FreqPKC: Frequency-Aware PeakConv for Radar Semantic Segmentation](https://arxiv.org/abs/2610.33504v1)** | 2026-10-24 |  |
 
 ## millimeter wave radar
 | **Title** | **Date** | **Comment** |
