@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 12, 2026
+title: Latest 15 Papers - November 13, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -83,6 +83,7 @@ labels: documentation
 ## wireless sensing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Low Probability of Target Detection in Wireless Sensing by Harnessing Reconfigurable-antenna based Reflectors](https://arxiv.org/abs/2611.16103v1)** | 2026-11-11 |  |
 | **[An Overview on Multimodal Wireless and Visual Sensing for Environment Reconstruction: Opportunities and Challenges](https://arxiv.org/abs/2611.10516v1)** | 2026-11-07 |  |
 | **[Multistatic ISAC with Deep Learning-Based Clutter Suppression for 5G and Beyond](https://arxiv.org/abs/2610.40586v1)** | 2026-10-29 |  |
 | **[Revolutionizing 6G Wireless Networks with RISs: Enhancements in Sensing and Communications](https://arxiv.org/abs/2610.27695v2)** | 2026-10-29 | <details><summary>7 pag...</summary><p>7 pages, 6 figures, accepted by IEEE Communications Magazine</p></details> |
@@ -97,7 +98,6 @@ labels: documentation
 | **[Antenna Placement for Monostatic Near-Field Wireless Sensing](https://arxiv.org/abs/2609.18003v1)** | 2026-09-16 | 13 pages, 8 figures |
 | **[A New Backscattering Dual-Polarized Rectenna for Wireless Power Transfer and IoT Applications](https://arxiv.org/abs/2609.08833v1)** | 2026-09-08 |  |
 | **[IIns-VAE+: A Robust Transfer Learning Framework for Environmental Identification in Wireless Sensing](https://arxiv.org/abs/2609.06131v1)** | 2026-09-05 | 17 pages |
-| **[A Deep Generative Model for Synthesizing Labeled Wireless Signals](https://arxiv.org/abs/2609.05396v1)** | 2026-09-04 | 12 pages |
 
 ## RF sensing
 | **Title** | **Date** | **Comment** |
