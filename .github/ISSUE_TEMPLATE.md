@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 16, 2026
+title: Latest 15 Papers - November 17, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## mmWave radar
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Floorplan-Context-Aware Cross-Environment Human Activity Recognition from mmWave Radar Point Clouds](https://arxiv.org/abs/2611.19640v1)** | 2026-11-14 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2027</p></details> |
 | **[Terrain Perception for Agricultural UAVs in Complex Farmland via Rotating mmWave Radar](https://arxiv.org/abs/2605.01340v2)** | 2026-11-10 |  |
 | **[RaMOD: Moving-Object Detection from Raw mmWave Radar Cubes under Ego Motion](https://arxiv.org/abs/2611.13271v1)** | 2026-11-09 |  |
 | **[3D Point Splatting for mmWave Radar Novel View Synthesis](https://arxiv.org/abs/2609.11894v2)** | 2026-11-07 | <details><summary>Accep...</summary><p>Accepted to the Conference on Neural Information Processing Systems (NeurIPS) 2026. Project page: https://3d-point-splatting.github.io/</p></details> |
@@ -21,11 +22,11 @@ labels: documentation
 | **[A Two-Stage Shape- and Motion-Aware Framework for mmWave-based Human Mesh Recovery](https://arxiv.org/abs/2605.08530v2)** | 2026-10-27 | accepted by WACV'27 |
 | **[3D Occupancy-Language Fields from mmWave Radar](https://arxiv.org/abs/2610.37929v1)** | 2026-10-27 |  |
 | **[Soft Temporal Alignment Distillation for Camera-to-mmWave Radar Human Activity Recognition](https://arxiv.org/abs/2610.36637v1)** | 2026-10-27 | 13 pages, 7 figures |
-| **[RadarCom: Unlocking Simultaneous Communication and Sensing on Commodity Automotive mmWave Radars](https://arxiv.org/abs/2610.36622v1)** | 2026-10-27 | <details><summary>Accep...</summary><p>Accepted to ACM SenSys 2027. 14 pages</p></details> |
 
 ## millimeter wave radar
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A2A-UAV: A Multimodal Air-to-Air Dataset for UAV Detection and Identification](https://arxiv.org/abs/2611.21311v1)** | 2026-11-16 | 27 pages, 9 figures |
 | **[Single-Radar Bilateral 3D Near-Field Imaging for Mobile Robots](https://arxiv.org/abs/2611.11296v1)** | 2026-11-08 |  |
 | **[What Limits mmWave Human-State Sensing for Robot Perception?](https://arxiv.org/abs/2611.08863v1)** | 2026-11-06 |  |
 | **[4D Point Splatting for mmWave Radar Micro-Doppler Differentiable Rendering](https://arxiv.org/abs/2611.08342v1)** | 2026-11-05 | Under Review |
@@ -40,11 +41,11 @@ labels: documentation
 | **[mmIR: Frequency-Space Inverse Rendering for 3D Millimeter-Wave Radar ADC Synthesis](https://arxiv.org/abs/2608.28913v1)** | 2026-08-28 | <details><summary>Accep...</summary><p>Accepted to the European Conference on Computer Vision (ECCV) 2026. Project page: https://mmwave-inverse-rendering.github.io/</p></details> |
 | **[WiWorld-RealData: A Real-World Multi-Modal Dataset for 6G Wireless World Models](https://arxiv.org/abs/2606.24476v3)** | 2026-08-16 | <details><summary>6 pag...</summary><p>6 pages, 6 figures, 3 tables</p></details> |
 | **[RbFT-Net: Rectify-Before-Fuse Temporal Radar Anchors for 4D Radar-Camera Depth Completion](https://arxiv.org/abs/2608.13102v1)** | 2026-08-13 |  |
-| **[P2MFDS: A Privacy-Preserving Multimodal Fall Detection System for Elderly People in Bathroom Environments](https://arxiv.org/abs/2506.17332v2)** | 2026-08-12 | <details><summary>Accep...</summary><p>Accepted to appear in the 2025 IEEE International Workshop on AIoT and Smart Systems (AIoTSys'25)</p></details> |
 
 ## FMCW radar
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SiGMA: Site-Grounded Multi-Modal ISAC Data Generation for Environment-Aware Communications](https://arxiv.org/abs/2611.20665v1)** | 2026-11-16 |  |
 | **[Prediction-Induced Sparsity for Tracked FMCW Radar: A Track-Conditioned Event-Gap FPGA Architecture](https://arxiv.org/abs/2610.41145v1)** | 2026-10-30 |  |
 | **[AFDM-ISAC Design Amalgamating FMCW Radar and Carrier Aggregation](https://arxiv.org/abs/2610.40107v1)** | 2026-10-29 |  |
 | **[Two-Stage Rotation-Based Joint ToA-AoA Estimation for Spatial Wideband Systems](https://arxiv.org/abs/2503.18111v2)** | 2026-10-28 | <details><summary>13 pa...</summary><p>13 pages, 12 figures, 2 tables</p></details> |
@@ -59,7 +60,6 @@ labels: documentation
 | **[On Learning Spatial Structure from Pre-Beamforming Per-Antenna Range-Doppler Radar Measurements](https://arxiv.org/abs/2604.01921v3)** | 2026-10-01 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Robotics and Automation Letters (RA-L), 2026</p></details> |
 | **[Track-conditioned Residual Frequency Estimation For Low-resolution FMCW Radar](https://arxiv.org/abs/2609.30176v1)** | 2026-09-24 |  |
 | **[Automotive mmWave Spinning Radar Place Recognition with Spatially Gated Feature-Correlation Representation](https://arxiv.org/abs/2609.27394v1)** | 2026-09-23 | <details><summary>Accep...</summary><p>Accepted at the 28th International Conference on Digital Image Computing: Techniques and Applications (DICTA 2026). 8 pages, 3 figures</p></details> |
-| **[RadarVox: Radar-Audio Multimodal Cocktail-Party Speech Separation with Speaker-Aware Cross-Modal Matching](https://arxiv.org/abs/2609.31708v1)** | 2026-09-20 |  |
 
 ## radar sensing
 | **Title** | **Date** | **Comment** |
@@ -102,6 +102,7 @@ labels: documentation
 ## RF sensing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Joint RF-VLP Position and Velocity Tracking: Bayesian Estimation and Performance Analysis](https://arxiv.org/abs/2611.19120v1)** | 2026-11-14 | <details><summary>13 pa...</summary><p>13 page, 8 figures, this work has been submitted to the IEEE for possible publication</p></details> |
 | **[Self-Supervised Doppler-Guided RF Odometry](https://arxiv.org/abs/2610.39005v1)** | 2026-10-28 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026</p></details> |
 | **[Passive RF Sensing for People Counting with Dense IoT Networks](https://arxiv.org/abs/2610.29633v1)** | 2026-10-21 |  |
 | **[RF-Agent: Hierarchical Language-Agent Control for Instruction-Conditioned Active Spectrum Sensing](https://arxiv.org/abs/2610.05485v1)** | 2026-10-04 |  |
@@ -116,7 +117,6 @@ labels: documentation
 | **[FSTC-Encoder: Feature--Spatial--Temporal Correlation Learning for Generalizable RF Sensing](https://arxiv.org/abs/2608.08439v1)** | 2026-08-09 | <details><summary>9 pag...</summary><p>9 pages, 2 figures, and 6 tables. Submitted to the 41st AAAI Conference on Artificial Intelligence (AAAI 2027)</p></details> |
 | **[Coordinated Spectrum Coexistence Across Heterogeneous Commercial and Federal Services](https://arxiv.org/abs/2608.07789v1)** | 2026-08-07 |  |
 | **[GeRaF: Neural Geometry Reconstruction from Radio Frequency Signals](https://arxiv.org/abs/2605.29097v2)** | 2026-08-04 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025 (Spotlight)</p></details> |
-| **[Seeing through boxes: Non-Line-of-Sight 3D Reconstruction from Radar Signals](https://arxiv.org/abs/2605.29098v2)** | 2026-08-04 | <details><summary>Proce...</summary><p>Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026</p></details> |
 
 ## radar gesture
 | **Title** | **Date** | **Comment** |
@@ -149,6 +149,9 @@ labels: documentation
 ## radar point cloud
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A2A-UAV: A Multimodal Air-to-Air Dataset for UAV Detection and Identification](https://arxiv.org/abs/2611.21311v1)** | 2026-11-16 | 27 pages, 9 figures |
+| **[DRaGAN: Dynamic Graph Attention Network for Multi-Radar Point Cloud Encoding in Automotive Radar Perception](https://arxiv.org/abs/2611.21162v1)** | 2026-11-16 | <details><summary>Accep...</summary><p>Accepted to 2027 IEEE/SICE International Symposium on System Integration (SII)</p></details> |
+| **[Floorplan-Context-Aware Cross-Environment Human Activity Recognition from mmWave Radar Point Clouds](https://arxiv.org/abs/2611.19640v1)** | 2026-11-14 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2027</p></details> |
 | **[Beyond Gait: Person Identification from Millimeter-Wave Point Clouds Across Activities of Daily Living](https://arxiv.org/abs/2609.08818v2)** | 2026-11-05 | <details><summary>v2: R...</summary><p>v2: Revised the activity-identity learning framework, updated experimental comparisons, and improved manuscript presentation</p></details> |
 | **[Untangling Dense Crowds with mmWave Radar: From Crowd Semantics to Individual Spatial Behaviors](https://arxiv.org/abs/2608.19357v2)** | 2026-11-03 |  |
 | **[Physics-Based Plausibility Assessment of AI-Predicted Vehicle Parameters for Automotive Radar in Pre-Crash Scenarios](https://arxiv.org/abs/2611.04871v1)** | 2026-11-03 |  |
@@ -161,9 +164,6 @@ labels: documentation
 | **[Reflection-Aware Reasoning for Non-Line-of-Sight Pedestrian Localization](https://arxiv.org/abs/2609.27346v1)** | 2026-09-23 | <details><summary>Accep...</summary><p>Accepted at ECCV 2026</p></details> |
 | **[HyperDet: 3D Object Detection with Hyper 4D Radar Point Clouds](https://arxiv.org/abs/2602.11554v5)** | 2026-09-21 | <details><summary>9 pag...</summary><p>9 pages, 3 figures, 6 tables</p></details> |
 | **[Accuracy- and Real-Time-Aware 4D Radar Preprocessing for Autonomous Driving Perception Systems](https://arxiv.org/abs/2609.18542v1)** | 2026-09-16 | <details><summary>7 pag...</summary><p>7 pages, 7 figures, Transactions of the Korean Society of Automotive Engineers</p></details> |
-| **[4D-RaDiff: Latent Point Diffusion for 4D Radar Point Cloud Generation](https://arxiv.org/abs/2512.14235v2)** | 2026-09-11 | ECCV 2026 DriveX |
-| **[UNRIO: Uncertainty-Aware Velocity Learning for Radar-Inertial Odometry](https://arxiv.org/abs/2604.13584v2)** | 2026-08-25 |  |
-| **[IRGNN: Efficient Invariant Radar Graph Neural Network for Radar Point Cloud Object Detection](https://arxiv.org/abs/2608.14394v1)** | 2026-08-14 | <details><summary>Accep...</summary><p>Accepted at ICONIP 2026</p></details> |
 
 ## radar vital signs
 | **Title** | **Date** | **Comment** |
