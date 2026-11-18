@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 17, 2026
+title: Latest 15 Papers - November 18, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -149,6 +149,7 @@ labels: documentation
 ## radar point cloud
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RaDiVe: Robust 4D Radar Odometry with Distance-Bounded NDT and Velocity-Discrepancy Point Uncertainty](https://arxiv.org/abs/2607.28045v2)** | 2026-11-17 | <details><summary>8 pag...</summary><p>8 pages, 8 figures, 8 tables</p></details> |
 | **[A2A-UAV: A Multimodal Air-to-Air Dataset for UAV Detection and Identification](https://arxiv.org/abs/2611.21311v1)** | 2026-11-16 | 27 pages, 9 figures |
 | **[DRaGAN: Dynamic Graph Attention Network for Multi-Radar Point Cloud Encoding in Automotive Radar Perception](https://arxiv.org/abs/2611.21162v1)** | 2026-11-16 | <details><summary>Accep...</summary><p>Accepted to 2027 IEEE/SICE International Symposium on System Integration (SII)</p></details> |
 | **[Floorplan-Context-Aware Cross-Environment Human Activity Recognition from mmWave Radar Point Clouds](https://arxiv.org/abs/2611.19640v1)** | 2026-11-14 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2027</p></details> |
@@ -163,7 +164,6 @@ labels: documentation
 | **[mmHRI: Towards Privacy-Preserving Human-Robot Interaction with Millimeter-Wave Radar](https://arxiv.org/abs/2609.34220v2)** | 2026-09-30 |  |
 | **[Reflection-Aware Reasoning for Non-Line-of-Sight Pedestrian Localization](https://arxiv.org/abs/2609.27346v1)** | 2026-09-23 | <details><summary>Accep...</summary><p>Accepted at ECCV 2026</p></details> |
 | **[HyperDet: 3D Object Detection with Hyper 4D Radar Point Clouds](https://arxiv.org/abs/2602.11554v5)** | 2026-09-21 | <details><summary>9 pag...</summary><p>9 pages, 3 figures, 6 tables</p></details> |
-| **[Accuracy- and Real-Time-Aware 4D Radar Preprocessing for Autonomous Driving Perception Systems](https://arxiv.org/abs/2609.18542v1)** | 2026-09-16 | <details><summary>7 pag...</summary><p>7 pages, 7 figures, Transactions of the Korean Society of Automotive Engineers</p></details> |
 
 ## radar vital signs
 | **Title** | **Date** | **Comment** |
