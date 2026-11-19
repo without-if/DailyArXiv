@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 18, 2026
+title: Latest 15 Papers - November 19, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## mmWave radar
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[mmTherm: Absolute 3D Human Pose Estimation from Low-Resolution Thermal Images and mmWave Radar](https://arxiv.org/abs/2611.23477v1)** | 2026-11-17 |  |
 | **[Floorplan-Context-Aware Cross-Environment Human Activity Recognition from mmWave Radar Point Clouds](https://arxiv.org/abs/2611.19640v1)** | 2026-11-14 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2027</p></details> |
 | **[Terrain Perception for Agricultural UAVs in Complex Farmland via Rotating mmWave Radar](https://arxiv.org/abs/2605.01340v2)** | 2026-11-10 |  |
 | **[RaMOD: Moving-Object Detection from Raw mmWave Radar Cubes under Ego Motion](https://arxiv.org/abs/2611.13271v1)** | 2026-11-09 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[RadPose: ISAC-based RF 3D Human Pose Estimation](https://arxiv.org/abs/2611.01400v1)** | 2026-11-01 | <details><summary>Accep...</summary><p>Accepted to WACV 2027</p></details> |
 | **[A Two-Stage Shape- and Motion-Aware Framework for mmWave-based Human Mesh Recovery](https://arxiv.org/abs/2605.08530v2)** | 2026-10-27 | accepted by WACV'27 |
 | **[3D Occupancy-Language Fields from mmWave Radar](https://arxiv.org/abs/2610.37929v1)** | 2026-10-27 |  |
-| **[Soft Temporal Alignment Distillation for Camera-to-mmWave Radar Human Activity Recognition](https://arxiv.org/abs/2610.36637v1)** | 2026-10-27 | 13 pages, 7 figures |
 
 ## millimeter wave radar
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,7 @@ labels: documentation
 ## FMCW radar
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Radar-Native Control Barrier Functions: Doppler Range Rate as a Measured Barrier Derivative](https://arxiv.org/abs/2611.23654v1)** | 2026-11-18 |  |
 | **[SiGMA: Site-Grounded Multi-Modal ISAC Data Generation for Environment-Aware Communications](https://arxiv.org/abs/2611.20665v1)** | 2026-11-16 |  |
 | **[Prediction-Induced Sparsity for Tracked FMCW Radar: A Track-Conditioned Event-Gap FPGA Architecture](https://arxiv.org/abs/2610.41145v1)** | 2026-10-30 |  |
 | **[AFDM-ISAC Design Amalgamating FMCW Radar and Carrier Aggregation](https://arxiv.org/abs/2610.40107v1)** | 2026-10-29 |  |
@@ -59,7 +60,6 @@ labels: documentation
 | **[FoMo: A Multi-Season Dataset for Robot Navigation in Forêt Montmorency](https://arxiv.org/abs/2603.08433v2)** | 2026-10-05 |  |
 | **[On Learning Spatial Structure from Pre-Beamforming Per-Antenna Range-Doppler Radar Measurements](https://arxiv.org/abs/2604.01921v3)** | 2026-10-01 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Robotics and Automation Letters (RA-L), 2026</p></details> |
 | **[Track-conditioned Residual Frequency Estimation For Low-resolution FMCW Radar](https://arxiv.org/abs/2609.30176v1)** | 2026-09-24 |  |
-| **[Automotive mmWave Spinning Radar Place Recognition with Spatially Gated Feature-Correlation Representation](https://arxiv.org/abs/2609.27394v1)** | 2026-09-23 | <details><summary>Accep...</summary><p>Accepted at the 28th International Conference on Digital Image Computing: Techniques and Applications (DICTA 2026). 8 pages, 3 figures</p></details> |
 
 ## radar sensing
 | **Title** | **Date** | **Comment** |
