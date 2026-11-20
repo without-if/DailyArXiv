@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 19, 2026
+title: Latest 15 Papers - November 20, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## mmWave radar
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Reference-Twist-Based Velocity-Domain Spatiotemporal Calibration for mmWave Radar, Event Camera, and IMU](https://arxiv.org/abs/2611.26083v1)** | 2026-11-19 | <details><summary>17 pa...</summary><p>17 pages, 12 figures. Code: https://anonymous.4open.science/r/xxxx</p></details> |
 | **[mmTherm: Absolute 3D Human Pose Estimation from Low-Resolution Thermal Images and mmWave Radar](https://arxiv.org/abs/2611.23477v1)** | 2026-11-17 |  |
 | **[Floorplan-Context-Aware Cross-Environment Human Activity Recognition from mmWave Radar Point Clouds](https://arxiv.org/abs/2611.19640v1)** | 2026-11-14 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2027</p></details> |
 | **[Terrain Perception for Agricultural UAVs in Complex Farmland via Rotating mmWave Radar](https://arxiv.org/abs/2605.01340v2)** | 2026-11-10 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Untangling Dense Crowds with mmWave Radar: From Crowd Semantics to Individual Spatial Behaviors](https://arxiv.org/abs/2608.19357v2)** | 2026-11-03 |  |
 | **[RadPose: ISAC-based RF 3D Human Pose Estimation](https://arxiv.org/abs/2611.01400v1)** | 2026-11-01 | <details><summary>Accep...</summary><p>Accepted to WACV 2027</p></details> |
 | **[A Two-Stage Shape- and Motion-Aware Framework for mmWave-based Human Mesh Recovery](https://arxiv.org/abs/2605.08530v2)** | 2026-10-27 | accepted by WACV'27 |
-| **[3D Occupancy-Language Fields from mmWave Radar](https://arxiv.org/abs/2610.37929v1)** | 2026-10-27 |  |
 
 ## millimeter wave radar
 | **Title** | **Date** | **Comment** |
