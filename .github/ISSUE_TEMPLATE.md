@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 22, 2026
+title: Latest 15 Papers - November 23, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -102,6 +102,8 @@ labels: documentation
 ## RF sensing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Path-Aware Fusion of Infrastructure RF Sensing and Robot Perception in a Live Robotic Digital Twin](https://arxiv.org/abs/2611.27497v1)** | 2026-11-20 |  |
+| **[Graph-XGB: A Hybrid GNN Framework for Outdoor-to-Indoor 5G Signal Reconstruction via Aerial-Only UAV RF Sensing](https://arxiv.org/abs/2611.26828v1)** | 2026-11-19 | <details><summary>20 pa...</summary><p>20 pages, 8 figures, 3 tables. Accepted manuscript of a chapter published in BESC 2026, Lecture Notes in Computer Science 17175 (Springer, 2027)</p></details> |
 | **[Joint RF-VLP Position and Velocity Tracking: Bayesian Estimation and Performance Analysis](https://arxiv.org/abs/2611.19120v1)** | 2026-11-14 | <details><summary>13 pa...</summary><p>13 page, 8 figures, this work has been submitted to the IEEE for possible publication</p></details> |
 | **[Self-Supervised Doppler-Guided RF Odometry](https://arxiv.org/abs/2610.39005v1)** | 2026-10-28 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026</p></details> |
 | **[Passive RF Sensing for People Counting with Dense IoT Networks](https://arxiv.org/abs/2610.29633v1)** | 2026-10-21 |  |
@@ -115,8 +117,6 @@ labels: documentation
 | **[OFDM-ISAC over Data Payloads: MSE Analysis, Constellation Design, and Experimentation](https://arxiv.org/abs/2608.15564v1)** | 2026-08-16 | 13 pages, 12 figures |
 | **[RFCheck: Synthetic RF Sensing Data Can Fail Measurement Consistency](https://arxiv.org/abs/2608.09676v1)** | 2026-08-10 |  |
 | **[FSTC-Encoder: Feature--Spatial--Temporal Correlation Learning for Generalizable RF Sensing](https://arxiv.org/abs/2608.08439v1)** | 2026-08-09 | <details><summary>9 pag...</summary><p>9 pages, 2 figures, and 6 tables. Submitted to the 41st AAAI Conference on Artificial Intelligence (AAAI 2027)</p></details> |
-| **[Coordinated Spectrum Coexistence Across Heterogeneous Commercial and Federal Services](https://arxiv.org/abs/2608.07789v1)** | 2026-08-07 |  |
-| **[GeRaF: Neural Geometry Reconstruction from Radio Frequency Signals](https://arxiv.org/abs/2605.29097v2)** | 2026-08-04 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025 (Spotlight)</p></details> |
 
 ## radar gesture
 | **Title** | **Date** | **Comment** |
