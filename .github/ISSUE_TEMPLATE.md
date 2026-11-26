@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 25, 2026
+title: Latest 15 Papers - November 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## millimeter wave radar
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DynaRC: Dynamics-Robust 4-D Radar Relocalization with Rate-Adaptive Sequence Matching](https://arxiv.org/abs/2611.34453v1)** | 2026-11-25 |  |
 | **[PhysRF-WorldJEPA: Transforming Heterogeneous Large Language Models into Manifold-Decoupled Millimeter-Wave Radar World Models](https://arxiv.org/abs/2611.32113v1)** | 2026-11-24 | <details><summary>11 pa...</summary><p>11 pages, 6 figures, 4 tables</p></details> |
 | **[RadarOSV: Unified 3D Scene and Motion Perception from mmWave Radars](https://arxiv.org/abs/2611.30078v1)** | 2026-11-23 |  |
 | **[RaCalNet: Radar Calibration Network for Sparse-Supervised Metric Depth Estimation](https://arxiv.org/abs/2506.15560v3)** | 2026-11-22 | 10 pages, 7 figures |
@@ -40,7 +41,6 @@ labels: documentation
 | **[LoCal-RIO: Radar-Inertial Odometry with Loop-Closure IMU Bias Calibration](https://arxiv.org/abs/2603.14109v4)** | 2026-09-18 | 8 pages, 8 figures |
 | **[4D Radar Perception Algorithms for Autonomous Driving: A Review](https://arxiv.org/abs/2609.19216v1)** | 2026-09-16 | <details><summary>12 pa...</summary><p>12 pages, 9 figures, 5 tables. Submitted to IEEE Sensors Journal</p></details> |
 | **[ReRadar: Robust Radar Global Localization via Rotation-Equivariant Descriptor Learning](https://arxiv.org/abs/2609.18092v1)** | 2026-09-16 | <details><summary>9 pag...</summary><p>9 pages, 8 figures. Under review</p></details> |
-| **[RF-VoID: Towards Bandwidth-Efficient Exterior Tile Void Detection via Narrowband Radio-Frequency Representation Learning](https://arxiv.org/abs/2609.12388v1)** | 2026-09-11 |  |
 
 ## FMCW radar
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,7 @@ labels: documentation
 ## radar sensing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AutoRSP: An AI Agent for Radar Sensing Pipeline Design](https://arxiv.org/abs/2611.34754v1)** | 2026-11-25 |  |
 | **[The Radar-based Activities of Daily Living (R-ADL) Dataset](https://arxiv.org/abs/2611.33088v1)** | 2026-11-24 |  |
 | **[Safety-Tiered ISAC Scheduling with History-Aware Value of Information for V2X Networks](https://arxiv.org/abs/2611.30420v1)** | 2026-11-23 | <details><summary>Accep...</summary><p>Accepted at the 2026 IEEE 1st Annual Integrated Sensing and Communication Conference (ISAC) in the current form, Lisbon, 16-18 Nov. 2026. 6 pages and 5 figures</p></details> |
 | **[Precision Coexistence: Angular-Spectral Region Constrained Waveform Design for MIMO-ISAC](https://arxiv.org/abs/2610.29364v2)** | 2026-11-21 | <details><summary>Paper...</summary><p>Paper accepted for presentation at IEEE Conference on Integrated Sensing and Communications 2026</p></details> |
@@ -78,12 +79,11 @@ labels: documentation
 | **[Edge-Assisted Multimodal UAV Localization with Resource-Efficient Compression and Robust Fusion](https://arxiv.org/abs/2607.03111v2)** | 2026-10-09 | <details><summary>Accep...</summary><p>Accepted and published in IEEE Transactions on Mobile Computing. This version incorporates the revisions made during peer review</p></details> |
 | **[Fundamental CRB-Rate Tradeoff of Rydberg Atomic Receivers for Integrated Sensing and Communication](https://arxiv.org/abs/2610.08696v1)** | 2026-10-06 |  |
 | **[Joint Target-Tag Estimation in Ambient Backscatter-Based ISAC](https://arxiv.org/abs/2610.05019v1)** | 2026-10-04 |  |
-| **[SAC-Controlled RIS-Assisted Monopulse Radar for Multipath-Robust Vital-Sign Localization](https://arxiv.org/abs/2610.03643v1)** | 2026-10-02 | <details><summary>To ap...</summary><p>To appear in IEEE CCNC 2027</p></details> |
 
 ## wireless sensing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Spoofing Wireless Sensing with Metasurfase-based Physical Deepfakes](https://arxiv.org/abs/2611.32386v1)** | 2026-11-24 |  |
+| **[Spoofing Wireless Sensing with Metasurface-based Physical Deepfakes](https://arxiv.org/abs/2611.32386v2)** | 2026-11-25 |  |
 | **[Low Probability of Target Detection in Wireless Sensing by Harnessing Reconfigurable-antenna based Reflectors](https://arxiv.org/abs/2611.16103v1)** | 2026-11-11 |  |
 | **[An Overview on Multimodal Wireless and Visual Sensing for Environment Reconstruction: Opportunities and Challenges](https://arxiv.org/abs/2611.10516v1)** | 2026-11-07 |  |
 | **[Multistatic ISAC with Deep Learning-Based Clutter Suppression for 5G and Beyond](https://arxiv.org/abs/2610.40586v1)** | 2026-10-29 |  |
